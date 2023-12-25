@@ -3,8 +3,8 @@
 ```markdown
 # Calculator App (JavaScript)
 
-![Calculator App]
-![Screenshot from 2023-09-30 08-20-26](https://github.com/mahapara24/Calculator-app-js/assets/92634034/ffb6e650-584d-4ff0-8e08-95b0b29a154c)
+#Ui Design of Application
+![Screenshot from 2023-12-25 18-01-02](https://github.com/mahapara24/Calculator-app-js/assets/92634034/07681b19-c58c-4027-8665-5670389f3937)
 
 
 This is a simple web-based calculator application built using HTML, CSS, and JavaScript.
